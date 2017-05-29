@@ -1,5 +1,0 @@
-﻿  chapter4.4.cpp
-c:\users\victo\onedrive\documents\visual studio 2017\projects\chapter4.4\chapter4.4\chapter4.4.cpp(68): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
-c:\users\victo\onedrive\documents\visual studio 2017\projects\chapter4.4\chapter4.4\chapter4.4.cpp(69): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
-  chapter4.4.vcxproj -> c:\users\victo\onedrive\documents\visual studio 2017\Projects\chapter4.4\Debug\chapter4.4.exe
-  chapter4.4.vcxproj -> c:\users\victo\onedrive\documents\visual studio 2017\Projects\chapter4.4\Debug\chapter4.4.pdb (Partial PDB)

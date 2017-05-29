@@ -1,5 +1,0 @@
-﻿  chapter3.4.cpp
-d:\projets\c++\chapter3.4\chapter3.4\chapter3.4.cpp(38): warning C4244: 'initialisation' : conversion de 'double' en 'str_size', perte possible de données
-d:\projets\c++\chapter3.4\chapter3.4\chapter3.4.cpp(41): warning C4018: '<' : incompatibilité signed/unsigned
-  chapter3.4.vcxproj -> D:\Projets\C++\chapter3.4\Debug\chapter3.4.exe
-  chapter3.4.vcxproj -> D:\Projets\C++\chapter3.4\Debug\chapter3.4.pdb (Partial PDB)

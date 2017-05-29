@@ -1,5 +1,0 @@
-﻿  chapter7.9.cpp
-d:\projets\c++\chapter7\chapter7.9\chapter7.9\chapter7.9.cpp(44): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-d:\projets\c++\chapter7\chapter7.9\chapter7.9\chapter7.9.cpp(45): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
-  chapter7.9.vcxproj -> D:\Projets\C++\Chapter7\chapter7.9\Debug\chapter7.9.exe
-  chapter7.9.vcxproj -> D:\Projets\C++\Chapter7\chapter7.9\Debug\chapter7.9.pdb (Partial PDB)

@@ -1,0 +1,14 @@
+﻿  chapter11.0.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\memory(53): warning C4996: 'std::uninitialized_copy::_Unchecked_iterators::_Deprecate': Call to 'std::uninitialized_copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\memory(53): note: voir la déclaration de 'std::uninitialized_copy::_Unchecked_iterators::_Deprecate'
+  d:\projets\c++\chapter11\chapter11.0\chapter11.0\vec.h(168): note: voir la référence à l'instanciation de la fonction modèle '_FwdIt *std::uninitialized_copy<double*,double*>(_InIt,_InIt,_FwdIt)' en cours de compilation
+          with
+          [
+              _FwdIt=double *,
+              _InIt=double *
+          ]
+  d:\projets\c++\chapter11\chapter11.0\chapter11.0\vec.h(160): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\projets\c++\chapter11\chapter11.0\chapter11.0\vec.h(94): note: voir la référence à l'instanciation de la fonction modèle 'void Vec<double>::grow(void)' en cours de compilation
+  d:\projets\c++\chapter11\chapter11.0\chapter11.0\chapter11.0.cpp(57): note: voir la référence à l'instanciation de classe modèle 'Vec<double>' en cours de compilation
+  chapter11.0.vcxproj -> D:\Projets\C++\Chapter11\chapter11.0\Debug\chapter11.0.exe
+  chapter11.0.vcxproj -> D:\Projets\C++\Chapter11\chapter11.0\Debug\chapter11.0.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  chapter2.5.cpp
+d:\projets\c++\chapter2.5\chapter2.5\chapter2.5.cpp(39): warning C4018: '<' : incompatibilité signed/unsigned
+  chapter2.5.vcxproj -> D:\Projets\C++\chapter2.5\Debug\chapter2.5.exe
+  chapter2.5.vcxproj -> D:\Projets\C++\chapter2.5\Debug\chapter2.5.pdb (Partial PDB)

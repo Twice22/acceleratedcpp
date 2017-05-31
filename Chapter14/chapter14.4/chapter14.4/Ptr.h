@@ -7,7 +7,7 @@ class Ptr {
 public:
 	// constructors
 	Ptr() : p(0), refptr(new size_t(1)) {};
-	Ptr(const Ptr& h) : p(h.p), refptr(h.refptr) {};
+	Ptr(const Ptr& h) : p(h.p), refptr(h.refptr) { ++*refptr; };
 	Ptr(T* t) : p(t), refptr(new size_t(1)) {};
 
 	// copy constructor
